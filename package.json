@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "@sap/cds": "^5",
-    "express": "^4",
+    "express": "^4.17.3",
     "hdb": "^0.19.1"
   },
   "devDependencies": {
@@ -15,7 +15,7 @@
     "sqlite3": "^5.0.2"
   },
   "scripts": {
-    "start": "cds run",
+    "start": "cds watch",
     "debug": "DEBUG=true cds watch"
   },
   "eslintConfig": {
@@ -42,5 +42,5 @@
       "no-console": "off",
       "require-atomic-updates": "off"
     }
-  } 
+  }
 }

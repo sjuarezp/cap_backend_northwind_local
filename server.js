@@ -1,10 +1,6 @@
 const cds = require('@sap/cds')
 module.exports = cds.server
 
-if (process.env.NODE_ENV !== 'production') {
-  const cds_swagger = require('cds-swagger-ui-express')
-  cds.on('bootstrap', app => app.use(cds_swagger()))
-} 
 
 const ORIGINS = { 
     'http://192.168.1.7:5500': 1
