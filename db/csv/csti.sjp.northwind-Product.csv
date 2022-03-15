@@ -1,0 +1,17 @@
+id	product_code	product_name	description	cost	price	url	category_id
+1	NWTB-1	Northwind Traders Chai		13.50	18.00	https://mir-s3-cdn-cf.behance.net/project_modules/1400/4069c362326403.5a8ca533282b4.jpg	1
+3	NWTCO-3	Northwind Traders Syrup		7.50	10.00	https://m.media-amazon.com/images/I/81AqCl8Lf5L._SL1500_.jpg	2
+4	NWTCO-4	Northwind Traders Cajun Seasoning		16.50	22.00	https://www.ocado.com/productImages/316/316664011_0_640x640.jpg?identifier=e8d31381700c19da5043239ac01bf421	2
+5	NWTO-5	Northwind Traders Olive Oil		16.01	21.35	https://i5.walmartimages.com/asr/075e506a-9e6c-4b7b-938a-55a43fa9bb41.c8e1369d8fd6acd915c4a66cce362228.jpeg	3
+6	NWTJP-6	Northwind Traders Boysenberry Spread		18.75	25.00	https://nordicexpatshop.com/media/catalog/product/cache/a75b4628650e2182ad447c229a356118/d/e/den_gamle_fabrik_boysenb_r.jpeg	4
+7	NWTDFN-7	Northwind Traders Dried Pears		22.50	30.00	https://images-platform.99static.com/3Z1oLmKfHKDqDAeVDWktT4_8E28=/0x0:2040x2040/500x500/top/smart/99designs-contests-attachments/93/93535/attachment_93535036	5
+8	NWTS-8	Northwind Traders Curry Sauce		30.00	40.00	https://www.austriansupermarket.com/media/08/10/2f/1601646192/12442_FEL77515.jpg	6
+14	NWTDFN-14	Northwind Traders Walnuts		17.44	23.25	https://i5.walmartimages.com/asr/df10b809-3ec8-42f3-91bf-defdf1b93a0b.051e92ea540bfff0be86662436de768a.jpeg	5
+17	NWTCFV-17	Northwind Traders Fruit Cocktail		29.25	39.00	https://images.heb.com/is/image/HEBGrocery/000087983	7
+19	NWTBGM-19	Northwind Traders Chocolate Biscuits Mix		6.90	9.20	https://cdn.webshopapp.com/shops/263312/files/320110894/1500x4000x3/cadbury-double-chocolate-cookie-mix-265g.jpg	8
+20	NWTJP-6	Northwind Traders Marmalade		60.75	81.00	https://i.pinimg.com/originals/8e/ce/73/8ece737634d4d9ce7342b69984d45600.jpg	4
+21	NWTBGM-21	Northwind Traders Scones		7.50	10.00	https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132708/chefs-pick-mini-sconies-variety-36-pack.6a6b029be3ef144d047f06459e9ea92a.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1	8
+34	NWTB-34	Northwind Traders Beer		10.50	14.00	https://images.albertsons-media.com/is/image/ABS/960196842?$ecom-pdp-desktop$	1
+40	NWTCM-40	Northwind Traders Crab Meat		13.80	18.40	https://www.passionvines.com/images/sites/passionvines/labels/culinary-reserve-jumbo-lump-crab-meat_1.jpg	9
+41	NWTSO-41	Northwind Traders Clam Chowder		7.24	9.65	https://i5.walmartimages.com/asr/1e9a0b43-678c-49f9-85a0-4e92067cdc9c.22ea51e343030f1efeeff2349004588b.png	10
+43	NWTB-43	Northwind Traders Coffee		34.50	46.00	https://cdn.shopify.com/s/files/1/0838/7991/products/organic-ground-coffee.jpg?v=1628031393	1
